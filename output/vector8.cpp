@@ -10,7 +10,8 @@ auto it = find(v.begin(),v.end(),3);
     {
         cout<<"not found"<<endl;
     }
-    else{
+    else
+    {
         cout<<"found"<<endl;
     }
 }
