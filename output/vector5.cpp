@@ -7,7 +7,7 @@ int main()
 
     v.insert(v.begin()+2,v2.begin(),v2.end());
           //v er 2 no index e v2 er shob element insert korbe+
-    for(int x:v)
+     for(int x:v)
     {
         cout<<x<<" ";
     }
